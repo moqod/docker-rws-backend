@@ -27,3 +27,6 @@ django-polymorphic==1.1
 untangle==1.1.0
 django-reversion==2.0.8
 raven
+celery
+django-celery-beat
+apscheduler
